@@ -30,25 +30,25 @@
 
 主人公である真倉桜は、他の女に負けない強さの証明のため、枕と布団の山へ飛び込んでいく…！
 
-＃＃ ゲームルール
+## ゲームルール
 相手が投げてくる枕を躱し、時には受け止めながら相手に枕を当てるゲーム。
 先に３回枕を当てられてしまった方が寝てしまい、負けとなってしまう。
 消灯まで６０秒…その間に決着をつけろ！
 
-＃＃ Unityバージョン
+## Unityバージョン
 Unity 2020.3.4f1
 
 ## 製作期間
 １か月半
 
-＃＃ 役割分担
+## 役割分担
 プログラマ　１名
 
 ３Dモデラー　２名
 
 モーションデザイナー　１名
 
-＃＃ゲーム画面
+## ゲーム画面
 !(https://github.com/IwagiMasaki/MACRASH/blob/image/ScreenShot/TitleImage.png)
 !(https://github.com/IwagiMasaki/MACRASH/blob/image/ScreenShot/Thorw.png)
 !(https://github.com/IwagiMasaki/MACRASH/blob/image/ScreenShot/Hit.png)

@@ -42,13 +42,11 @@ Unity 2020.3.4f1
 １か月半
 
 ## 役割分担
-プログラマ　１名
-
-３Dモデラー　２名
-
-モーションデザイナー　１名
+* プログラマ　１名
+* ３Dモデラー　２名
+* モーションデザイナー　１名
 
 ## ゲーム画面
-!(https://github.com/IwagiMasaki/MACRASH/blob/image/ScreenShot/TitleImage.png)
-!(https://github.com/IwagiMasaki/MACRASH/blob/image/ScreenShot/Thorw.png)
-!(https://github.com/IwagiMasaki/MACRASH/blob/image/ScreenShot/Hit.png)
+![TitleImage](https://user-images.githubusercontent.com/50101227/169740405-c2445ff8-55ac-4ecc-a539-40024d33b512.png)
+![Thorw](https://user-images.githubusercontent.com/50101227/169740500-46c7942b-c99b-440f-bfd2-359ed7a00dba.png)
+![Hit](https://user-images.githubusercontent.com/50101227/169746229-0818f811-54bc-4f14-9cdc-af542f729c66.png)

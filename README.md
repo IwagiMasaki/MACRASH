@@ -6,10 +6,10 @@
 
 ## 概要
 
-＃＃ ジャンル
+## ジャンル
 ３Dシューティングアクションゲーム
 
-＃＃ プラットフォーム
+## プラットフォーム
 * [Android](https://github.com/IwagiMasaki/MACRASH/blob/main/Bilddata/AndroidBild.zip)
 * [Windows](https://github.com/IwagiMasaki/MACRASH/blob/main/Bilddata/WindowsBild.zip)
 
